@@ -1,0 +1,11 @@
+C:\Users\Macar\Desktop\Text Redactor\Text Editoe\Text Editoe\bin\Debug\Text Editoe.exe.config
+C:\Users\Macar\Desktop\Text Redactor\Text Editoe\Text Editoe\bin\Debug\Text Editoe.exe
+C:\Users\Macar\Desktop\Text Redactor\Text Editoe\Text Editoe\bin\Debug\Text Editoe.pdb
+C:\Users\Macar\Desktop\Text Redactor\Text Editoe\Text Editoe\obj\Debug\Text Editoe.csproj.AssemblyReference.cache
+C:\Users\Macar\Desktop\Text Redactor\Text Editoe\Text Editoe\obj\Debug\Text_Editoe.Form1.resources
+C:\Users\Macar\Desktop\Text Redactor\Text Editoe\Text Editoe\obj\Debug\Text_Editoe.Properties.Resources.resources
+C:\Users\Macar\Desktop\Text Redactor\Text Editoe\Text Editoe\obj\Debug\Text Editoe.csproj.GenerateResource.cache
+C:\Users\Macar\Desktop\Text Redactor\Text Editoe\Text Editoe\obj\Debug\Text Editoe.csproj.CoreCompileInputs.cache
+C:\Users\Macar\Desktop\Text Redactor\Text Editoe\Text Editoe\obj\Debug\Text Editoe.exe
+C:\Users\Macar\Desktop\Text Redactor\Text Editoe\Text Editoe\obj\Debug\Text Editoe.pdb
+C:\Users\Macar\Desktop\Text Redactor\Text Editoe\Text Editoe\obj\Debug\Text_Editor_ArnobArpon.Form1.resources
